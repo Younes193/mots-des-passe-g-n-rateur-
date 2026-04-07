@@ -1,0 +1,13 @@
+ h1 {
+    font-size: 48px;
+    color: #f0ece4;
+    letter-spacing: -1px;
+}
+
+h2 {
+    font-size: 13px;
+    color: #888888;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 10px;
+}
